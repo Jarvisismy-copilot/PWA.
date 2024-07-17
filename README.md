@@ -1,16 +1,9 @@
 PWA 
-  ## Description  ✏️
 
+  ## Description
 
- 
-  ## Acceptance Criteria
+Just a Text Editor
 
->>> Add of GitLab information on Road Map when available
-
-*Concept and MVP First*
-
->>> Add Descrption Later
-  
   ## Table of Contents 📖
   
   [Installation](#installation)
@@ -29,39 +22,19 @@ PWA
   
   ## Installation 
 
->>> Add Installation
+npm 
   
-  ## Usage 
-
->>> Add Usage
-
-### Screenshots
-
->>> Add Screenshots
-
-### Screenrecording
-
-[Presentation_Recording](add google drive link)
-
-______________________________________________________________________________
+__________________________________________________________________________
 
 ## License
 
-   ![Github license](https://img.shields.io/badge/license-MIT-blue.svg)
-  This project is licensed under the MIT license.
-  
+No License. 
+
 ## Built-With
 
->>> ORM possibly?
->>> Handlebars... Likely
->>> Bootstrap... Likely
-
 - JavaScript
-- Express js 
-- Node.js
-- Postgres
-
->>>Inquirer?
+- Json
+- Render
 
 ## Tests 
 
@@ -74,11 +47,9 @@ in the terminal.
 
 ## Credits
 
-To access contributors github accounts click:
+[Depployed_Site] (https://pwa-ne6a.onrender.com)
 
 - Chelsea Jarvis | |[GitHub](https://github.com/Jarvisismy-copilot)
-
->>> Insert any additional members
 
 
  ## Questions 
