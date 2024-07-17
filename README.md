@@ -35,7 +35,7 @@ No License.
 - JavaScript
 - HTML
 - CSS
-- Render
+
 
 ## Tests 
 
