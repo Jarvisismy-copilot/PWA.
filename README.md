@@ -33,14 +33,15 @@ No License.
 ## Built-With
 
 - JavaScript
-- Json
+- HTML
+- CSS
 - Render
 
 ## Tests 
 
 To run tests, run: 
 
->>> " npm start "
+" npm start "
 
 in the terminal.
   
@@ -56,6 +57,6 @@ in the terminal.
   
   If you have any questions, contact me directly Chelsea Jarvis at [here](mailto:Chelseajarvis3301@icloud.com)
 
-  
+
   
 
