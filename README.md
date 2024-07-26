@@ -48,7 +48,7 @@ in the terminal.
 
 ## Credits
 
-[Depployed_Site] (https://pwa-ne6a.onrender.com)
+[Deployment](https://pwa-ne6a.onrender.com)
 
 - Chelsea Jarvis | |[GitHub](https://github.com/Jarvisismy-copilot)
 
